@@ -1,3 +1,3 @@
 # university
 
-relevant code content of the university
+relevant code content
